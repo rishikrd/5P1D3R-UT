@@ -1,6 +1,6 @@
  Repo Clonning ⚡♥️
 
-RUN git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git /root/userbot
+RUN git clone https://github.com/rishikrd/5P1D3R-UT /root/userbot
 
 #working directory 
 
